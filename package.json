@@ -1,0 +1,20 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ordorchinomso/Project1.git"
+  },
+  "author": "Ordor Chinomso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ordorchinomso/Project1/issues"
+  },
+  "homepage": "https://github.com/ordorchinomso/Project1#readme"
+}
